@@ -7,4 +7,4 @@ Notre mission : simplifier la collecte, le traitement et la visualisation des do
 
 ### Architecture 
 
-<img width="828" height="844" alt="general_architecture" src="https://github.com/user-attachments/assets/f5a11a80-24dc-4058-b014-03cfe511eb5f" />
+<img width="657" height="823" alt="general_architecture" src="https://github.com/user-attachments/assets/c0b5158a-af61-42d2-91f0-eb2716718182" />
